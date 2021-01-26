@@ -1,3 +1,11 @@
+> Migrated to [simnalamburt/PKGBUILD](https://github.com/simnalamburt/PKGBUILD/tree/main/yarn)
+> ========
+> This repo has been migrated to the https://github.com/simnalamburt/PKGBUILD/tree/main/yarn
+
+&nbsp;
+
+&nbsp;
+
 yarn 0.27.5-1
 --------
 
